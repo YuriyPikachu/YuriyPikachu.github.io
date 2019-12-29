@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     YuriyPikachu
-zhihu_username:     YuriyPikachu
+weibo_username:     YuriyPikachu
+#zhihu_username:     YuriyPikachu
 github_username:    YuriyPikachu
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#facebook_username:  baiying.qiu.7
+jianshu_username:   1df4d713a12c
 #twitter_username:   YuriyPikachu
 
 
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "微信公众号：Android开发加油站",
-        href: "http://zhengwuyang.com"
+        href: "http://google.com"
     },{
         title: "简书·YuriyPikachu",
         href: "https://www.jianshu.com/u/1df4d713a12c"
