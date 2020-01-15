@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      kotlin的@JvmOverloads会不会生成多余的方法
-subtitle:   @JvmOverloads 源码分析
+title:      kotlin的@JvmOverloads
+subtitle:   kotlin的@JvmOverloads会不会生成多余的方法
 date:       2020-01-15
 author:     Yuriy
 header-img: img/kotlin.jpeg
