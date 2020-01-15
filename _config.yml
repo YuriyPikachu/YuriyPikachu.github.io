@@ -1,5 +1,5 @@
 # Site settings
-title: 移动开发
+title: Yuriy Blog
 SEOTitle: 余亮的博客|Android
 header-img: img/post-bg-desk.jpg
 email: YuriyPikachu@163.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/YuriyPikachu/YuriyPikachu.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "努力的人运气不会差!"
+sidebar-about-description: "努力的人，运气不会差!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: e4bd5bf5b6cbfcc14886a787bcbc47b1
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: YuriyPikachu.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-100422673-2'            # Format: UA-xxxxxx-xx
+ga_domain: YuriyPikachu.github.io              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
