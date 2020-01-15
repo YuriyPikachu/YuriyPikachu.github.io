@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "微信公众号：Android开发加油站",
-        href: ""
-    },{
         title: "简书·YuriyPikachu",
         href: "https://www.jianshu.com/u/1df4d713a12c"
     },{
@@ -110,5 +107,14 @@ friends: [
     },{
         title: "头条号",
         href: "https://www.toutiao.com/c/user/1789857904/#mid=1581788092440589"
+    },{
+        title: "微博",
+        href: "http://weibo.com/2648402234/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
+    },{
+        title: "QQ技术交流群：389274438",
+        href: ""
+    },{
+        title: "微信公众号：Android开发加油站",
+        href: ""
     }
 ]
