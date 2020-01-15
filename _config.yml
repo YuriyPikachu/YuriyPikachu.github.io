@@ -1,8 +1,8 @@
 # Site settings
-title: BY Blog
+title: 移动开发
 SEOTitle: 余亮的博客|Android
 header-img: img/post-bg-desk.jpg
-email: YuriyPikachu@gmail.com
+email: YuriyPikachu@163.com
 description: "Every failure is leading towards success."
 keyword: "余亮的博客, YuriyPikachu, 余亮, Android, Java, Kotlin"
 url: "http://YuriyPikachu.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/YuriyPikachu/YuriyPikachu.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "努力的人运气不会差!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: e4bd5bf5b6cbfcc14886a787bcbc47b1
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "微信公众号：Android开发加油站",
-        href: "http://google.com"
+        href: ""
     },{
         title: "简书·YuriyPikachu",
         href: "https://www.jianshu.com/u/1df4d713a12c"
