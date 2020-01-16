@@ -26,3 +26,13 @@ tags:
 #### 该Kotlin 生成Java代码
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1gayf5rwk5tj30q90gqgmp.jpg"/>
 
+了解更移动开发知识，欢迎关注公众号：
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gayiubsiuaj309k09kdfn.jpg)         
+头条：[Android开发加油站](https://www.toutiao.com/c/user/1789857904/#mid=1581788092440589)
+微博：[Android开发加油站](http://weibo.com/2648402234/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+QQ技术交流群：389274438
+博客：https://YuriyPikachu.github.io/
+简书：[YuriyPikachu](https://www.jianshu.com/u/1df4d713a12c)
+csdn：[YuriyPikachu](https://blog.csdn.net/pjingying)
+github：https://github.com/YuriyPikachu
+邮箱：YuriyPikachu@163.com
