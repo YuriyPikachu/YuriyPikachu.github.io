@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      自定义Gradle的插件
+title:      深入理解Android编译原理—自定义Gradle的插件
 subtitle:   Gradle插件打包用于可重用的构建逻辑片段，可用于许多不同的项目和构建
 date:       2020-01-31
 author:     Yuriy
