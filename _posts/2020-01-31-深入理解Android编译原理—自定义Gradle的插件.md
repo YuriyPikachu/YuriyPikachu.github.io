@@ -1,17 +1,3 @@
----
-layout:     post
-title:      深入理解Android编译原理—自定义Gradle的插件
-subtitle:   Gradle插件打包用于可重用的构建逻辑片段，可用于许多不同的项目和构建
-date:       2020-01-31
-author:     Yuriy
-header-img: img/home-bg-o.jpg
-catalog: true
-tags:
-    - 效率
-    - 源码
----
-# 深入理解Android编译原理—自定义Gradle的插件
-
 ## Andodid的编译过程
 首先需要了解一下Android的打包过程，他是如何从一个代码(kotlin/java)，变成一个可以运行的apk的呢？如下图所示：
 
@@ -96,7 +82,7 @@ implementation-class = io.github.yuriypikachu.plugindemo.PrintFakeAndroid
 ```
 关于命令行中的-q详见官方文档[https://docs.gradle.org/current/userguide/logging.html#sec:choosing_a_log_level](https://docs.gradle.org/current/userguide/logging.html#sec:choosing_a_log_level)
 
-## Demo 地址：[https://github.com/YuriyPikachu/PluginDemo](https://github.com/YuriyPikachu/PluginDemo)
+Demo 地址：[https://github.com/YuriyPikachu/PluginDemo](https://github.com/YuriyPikachu/PluginDemo)
 
 ## 了解更移动开发知识，欢迎关注公众号：
 ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gayiubsiuaj309k09kdfn.jpg)         
