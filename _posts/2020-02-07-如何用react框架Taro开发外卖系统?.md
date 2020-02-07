@@ -70,46 +70,48 @@ activity.less
 food.jsx
 ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbn3hrg4idj31fk0iqgms.jpg)
 
-food.less
+    food.less
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn41ljv4bj30cu05aq2t.jpg)
 * 分类
 category.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3yxiwu8j31h00u0taq.jpg)
 
-category.less
+    category.less
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3zk6ppsj30by0lgglw.jpg)
 * 菜品列表
 foodlist.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3xqfa59j31j40u0q4l.jpg)
 
-foodlist.less
+    foodlist.less
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3y37hprj30aw04wjr9.jpg)
 
 3、底部部分(components/bottom)
-bottom.jsx
+* bottom.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3welphaj31uc0t8jtu.jpg)
 
-bottom.less
+    bottom.less
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3x0kyr8j30gu14c0tv.jpg)
 
 4、加菜按钮(components/addfood)
-addfood.jsx
+* addfood.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3ueg54fj31470u0gnq.jpg)
 
-addfood.less
+    addfood.less
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3uvtgexj30fa0s6dga.jpg)
 
 5、工具类(utils)
-common.jsx
+* common.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3swq02jj30l40eemxd.jpg)
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3taxuilj30u00zdq4t.jpg)
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3ttekw2j30ps0ncwfa.jpg)
 
-events.jsx
+    events.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3rubascj30n20t2mxx.jpg)
 
-6、index.jsx
+6、项目入口
+* index.jsx
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gbn3r9stjuj30gq09u749.jpg)
+
 ## 总结
 第一版就是实现一个外卖系统的的点菜功能，可以对菜进行点菜添加或者减少。以及相关样式的展示。
 
