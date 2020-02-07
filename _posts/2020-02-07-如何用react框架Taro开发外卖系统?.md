@@ -124,3 +124,16 @@ foodlist.jsx
 
 ## Demo地址
 [https://github.com/YuriyPikachu/taro-orderFood](https://github.com/YuriyPikachu/taro-orderFood)
+
+## 了解更移动开发知识，欢迎关注公众号：
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gayiubsiuaj309k09kdfn.jpg)         
+* 头条：[Android开发加油站](https://www.toutiao.com/c/user/1789857904/#mid=1581788092440589)
+* 微博：[Android开发加油站](http://weibo.com/2648402234/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+* 公众号：[Android开发加油站]()
+* QQ技术交流群：389274438
+* 博客：[https://YuriyPikachu.github.io](https://YuriyPikachu.github.io)
+* 简书：[YuriyPikachu](https://www.jianshu.com/u/1df4d713a12c)
+* 知乎：[YuriyPikachu](https://www.zhihu.com/people/YuriyPikachu)
+* csdn：[https://blog.csdn.net/pjingying](https://blog.csdn.net/pjingying)
+* github：[https://github.com/YuriyPikachu](https://github.com/YuriyPikachu)
+* 邮箱：[YuriyPikachu@163.com](YuriyPikachu@163.com)
