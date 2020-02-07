@@ -120,5 +120,5 @@ events.jsx
 4. 添加上拉加载更多，下拉刷新等
 5. 屏幕适配
 
-## 项目地址
+## Demo地址
 [https://github.com/YuriyPikachu/taro-orderFood](https://github.com/YuriyPikachu/taro-orderFood)
